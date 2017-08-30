@@ -12,6 +12,6 @@ Course on Machine Learning - Deep Learning - Coursera
    
 ## Lecture Notes
 
-   Very valuable material which can be consulted [here]()
+   Very valuable material which can be consulted [here](https://github.com/darioromero/deeplearning_andrewng/tree/master/Lecture%20Notes)
 
 
