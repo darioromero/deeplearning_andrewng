@@ -1,4 +1,4 @@
-#**Course on Machine Learning - Deep Learning - Coursera**#
+***Course on Machine Learning - Deep Learning - Coursera***
 
 ## Objective
 
